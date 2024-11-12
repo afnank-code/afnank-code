@@ -2,7 +2,7 @@
 <h3 align="center">HTML, CSS (Flexbox, Grid, animations), TypeScript, Next.js, React, and JavaScript (ES6+).</h3>
 
 
-- 🌱 I’m currently learning **dvanced Next.js features and best practices for optimizing TypeScript in large-scale applications.**
+- 🌱 I’m currently learning **Advanced Next.js features and best practices for optimizing TypeScript in large-scale applications.**
 
 - 📫 How to reach me **afnannadeem33@gmail.com**
 
