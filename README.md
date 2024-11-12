@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afnan</h1>
 <h3 align="center">HTML, CSS (Flexbox, Grid, animations), TypeScript, Next.js, React, and JavaScript (ES6+).</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnank-code" alt="afnank-code" /></a> </p>
+
 
 - 🌱 I’m currently learning **dvanced Next.js features and best practices for optimizing TypeScript in large-scale applications.**
 
